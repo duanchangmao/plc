@@ -334,3 +334,5 @@ $(BIN_TARGET): $(EXEC_TARGET)
 
 clean:
 	rm -rf $(OBJS_DIR) $(BUILD_DIR)/*
+
+666
